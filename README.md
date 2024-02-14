@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @frrobert42
-- 🌱
+- 🌱 ✨
 
 <!---
 frrobert42/frrobert42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
